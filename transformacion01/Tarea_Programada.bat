@@ -1,3 +1,3 @@
 echo "Ejecucion desde tarea Programada" 
-echo date /t
+pan -file:etl_1.ktr
 pause 
