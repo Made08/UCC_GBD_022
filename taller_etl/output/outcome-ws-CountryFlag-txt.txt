@@ -1,0 +1,12 @@
+;http://www.oorsprong.org/WebSamples.CountryInfo/Flags/Colombia.jpg
+;Country not found in the database
+;http://www.oorsprong.org/WebSamples.CountryInfo/Flags/Spain.jpg
+CO;;http://www.oorsprong.org/WebSamples.CountryInfo/Flags/Colombia.jpg
+EU;;Country not found in the database
+ES;;http://www.oorsprong.org/WebSamples.CountryInfo/Flags/Spain.jpg
+CO;;http://www.oorsprong.org/WebSamples.CountryInfo/Flags/Colombia.jpg
+EU;;Country not found in the database
+ES;;http://www.oorsprong.org/WebSamples.CountryInfo/Flags/Spain.jpg
+CO;;http://www.oorsprong.org/WebSamples.CountryInfo/Flags/Colombia.jpg
+EU;;Country not found in the database
+ES;;http://www.oorsprong.org/WebSamples.CountryInfo/Flags/Spain.jpg
